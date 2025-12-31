@@ -66,8 +66,7 @@ Deze event geeft de gedeelde locatie terug aan de jagers, waarna deze op hun kaa
 ```
 ### Capture events
 ```
-capture:claim, wordt vestuurd door de jager naar de backend als 1e stap in het 2FTV proces
-Deze event deelt met de verstopper dat er een verificatie tot
+capture:claim, wordt niet gebruikt.
 
 capture:requestConfirm, wordt verstuurt door de jager naar de backend als 1e stap in het MFTV proces
 Deze event deelt met de verstopper dat er gevraagd wordt voor een confirmatie tot zijn capture binnen het spel
